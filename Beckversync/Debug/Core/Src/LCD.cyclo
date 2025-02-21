@@ -1,0 +1,8 @@
+../Core/Src/LCD.c:18:6:I2C_Send	1
+../Core/Src/LCD.c:36:6:LCD_Init	1
+../Core/Src/LCD.c:56:6:backlight_On	1
+../Core/Src/LCD.c:63:6:backlight_Off	1
+../Core/Src/LCD.c:70:6:printLCD	8
+../Core/Src/LCD.c:79:6:clearLCD	1
+../Core/Src/LCD.c:86:6:setBlinking	1
+../Core/Src/LCD.c:92:6:setCursor	1
