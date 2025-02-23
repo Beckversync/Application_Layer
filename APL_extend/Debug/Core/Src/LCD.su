@@ -1,0 +1,8 @@
+../Core/Src/LCD.c:19:6:I2C_Send	32	static
+../Core/Src/LCD.c:37:6:LCD_Init	16	static
+../Core/Src/LCD.c:57:6:backlight_On	24	static
+../Core/Src/LCD.c:64:6:backlight_Off	24	static
+../Core/Src/LCD.c:71:6:printLCD	24	static
+../Core/Src/LCD.c:80:6:clearLCD	8	static
+../Core/Src/LCD.c:87:6:setBlinking	16	static
+../Core/Src/LCD.c:93:6:setCursor	16	static
