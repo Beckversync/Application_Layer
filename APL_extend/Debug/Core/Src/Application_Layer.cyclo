@@ -1,0 +1,2 @@
+../Core/Src/Application_Layer.c:10:6:bkit_send_message	4
+../Core/Src/Application_Layer.c:51:6:bkit_receive_message	6

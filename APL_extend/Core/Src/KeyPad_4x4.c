@@ -23,77 +23,77 @@ int checkPass (uint32_t pa[]) {
 	return 1;
 }
 
-void Keypad_init(struct keypad * pad,
-				 struct pin c1, struct pin c2, struct pin c3, struct pin c4,
-				 struct pin r1, struct pin r2, struct pin r3, struct pin r4){
-	struct pin c [] = {c1, c2, c3, c4},
-						 r [] = {r1, r2, r3, r4};
-
-		for (int index = 0; index < 4; index++) {
-			pad->C[index] = c[index];
-			pad->R[index] = r[index];
-
-			KeypadPin[index] = pinArr[r[index].pin];
-			KeypadPort [index] = r[index].p;
-		}
-
-		for (int idx = 0; idx < 4; idx++) {
-
-			if (pad->C[idx].p == GPIOA)
-				RCC->APB2ENR |= (1 << 2) | 1;
-			else if (pad->C[idx].p == GPIOB)
-				RCC->APB2ENR |= (1 << 3) | 1;
-			else if (pad->C[idx].p == GPIOC)
-				RCC->APB2ENR |= (1 << 4) | 1;
-
-			int Exti_port, Exti_x;
-			if (pad->R[idx].p == GPIOA){
-				Exti_port = 0;
-				RCC->APB2ENR |= (1 << 2);
-			}
-			else if (pad->R[idx].p == GPIOB){
-				Exti_port = 1;
-				RCC->APB2ENR |= (1 << 3);
-			}
-			else if (pad->R[idx].p == GPIOC){
-				Exti_port = 2;
-				RCC->APB2ENR |= (1 << 4);
-			}
-
-			if (pad->C[idx].pin < 8){
-				pad->C[idx].p->CRL &= ~(0xF << (pad->C[idx].pin*4));
-				pad->C[idx].p->CRL |= (0x3 << (pad->C[idx].pin*4));
-				}
-			else {
-				pad->C[idx].p->CRH &= ~(0xF << ((pad->C[idx].pin - 8)*4));
-				pad->C[idx].p->CRH |= (0x3 << ((pad->C[idx].pin - 8)*4));
-				}
-
-			pad->C[idx].p->ODR |= (1 << pad->C[idx].pin);
-
-			if (pad->R[idx].pin < 8){
-				pad->R[idx].p->CRL &= ~(0xF << (pad->R[idx].pin*4));
-				pad->R[idx].p->CRL |= (0x8 << (pad->R[idx].pin*4));
-				}
-			else {
-				pad->R[idx].p->CRH &= ~(0xF << ((pad->R[idx].pin - 8)*4));
-				pad->R[idx].p->CRH |= (0x8 << ((pad->R[idx].pin - 8)*4));
-				}
-
-			pad->R[idx].p->ODR &= ~(1 << pad->R[idx].pin);//Pull down for input line
-
-			if (pad->R[idx].pin < 4) {
-				__disable_irq();
-				Exti_x = EXTI0_IRQn;
-				AFIO->EXTICR[0] &= ~(0xFF << pad->R[idx].pin*4);
-				AFIO->EXTICR[0] |= (Exti_port << pad->R[idx].pin*4);
-				EXTI->IMR |= (1 << pad->R[idx].pin);
-				EXTI->RTSR |= (1 << pad->R[idx].pin);
-				NVIC_EnableIRQ(Exti_x);
-				__enable_irq();
-			}
-		}
-}
+//void Keypad_init(struct keypad * pad,
+//				 struct pin c1, struct pin c2, struct pin c3, struct pin c4,
+//				 struct pin r1, struct pin r2, struct pin r3, struct pin r4){
+//	struct pin c [] = {c1, c2, c3, c4},
+//						 r [] = {r1, r2, r3, r4};
+//
+//		for (int index = 0; index < 4; index++) {
+//			pad->C[index] = c[index];
+//			pad->R[index] = r[index];
+//
+//			KeypadPin[index] = pinArr[r[index].pin];
+//			KeypadPort [index] = r[index].p;
+//		}
+//
+//		for (int idx = 0; idx < 4; idx++) {
+//
+//			if (pad->C[idx].p == GPIOA)
+//				RCC->APB2ENR |= (1 << 2) | 1;
+//			else if (pad->C[idx].p == GPIOB)
+//				RCC->APB2ENR |= (1 << 3) | 1;
+//			else if (pad->C[idx].p == GPIOC)
+//				RCC->APB2ENR |= (1 << 4) | 1;
+//
+//			int Exti_port, Exti_x;
+//			if (pad->R[idx].p == GPIOA){
+//				Exti_port = 0;
+//				RCC->APB2ENR |= (1 << 2);
+//			}
+//			else if (pad->R[idx].p == GPIOB){
+//				Exti_port = 1;
+//				RCC->APB2ENR |= (1 << 3);
+//			}
+//			else if (pad->R[idx].p == GPIOC){
+//				Exti_port = 2;
+//				RCC->APB2ENR |= (1 << 4);
+//			}
+//
+//			if (pad->C[idx].pin < 8){
+//				pad->C[idx].p->CRL &= ~(0xF << (pad->C[idx].pin*4));
+//				pad->C[idx].p->CRL |= (0x3 << (pad->C[idx].pin*4));
+//				}
+//			else {
+//				pad->C[idx].p->CRH &= ~(0xF << ((pad->C[idx].pin - 8)*4));
+//				pad->C[idx].p->CRH |= (0x3 << ((pad->C[idx].pin - 8)*4));
+//				}
+//
+//			pad->C[idx].p->ODR |= (1 << pad->C[idx].pin);
+//
+//			if (pad->R[idx].pin < 8){
+//				pad->R[idx].p->CRL &= ~(0xF << (pad->R[idx].pin*4));
+//				pad->R[idx].p->CRL |= (0x8 << (pad->R[idx].pin*4));
+//				}
+//			else {
+//				pad->R[idx].p->CRH &= ~(0xF << ((pad->R[idx].pin - 8)*4));
+//				pad->R[idx].p->CRH |= (0x8 << ((pad->R[idx].pin - 8)*4));
+//				}
+//
+//			pad->R[idx].p->ODR &= ~(1 << pad->R[idx].pin);//Pull down for input line
+//
+//			if (pad->R[idx].pin < 4) {
+//				__disable_irq();
+//				Exti_x = EXTI0_IRQn;
+//				AFIO->EXTICR[0] &= ~(0xFF << pad->R[idx].pin*4);
+//				AFIO->EXTICR[0] |= (Exti_port << pad->R[idx].pin*4);
+//				EXTI->IMR |= (1 << pad->R[idx].pin);
+//				EXTI->RTSR |= (1 << pad->R[idx].pin);
+//				NVIC_EnableIRQ(Exti_x);
+//				__enable_irq();
+//			}
+//		}
+//}
 
 void Keypad_Init(struct pin c1, struct pin c2, struct pin c3, struct pin c4,
 								 struct pin r1, struct pin r2, struct pin r3, struct pin r4) {

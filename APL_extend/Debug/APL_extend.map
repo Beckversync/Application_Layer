@@ -40,6 +40,8 @@ C:/ST/STM32CubeIDE_1.7.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externalt
                               C:/ST/STM32CubeIDE_1.7.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (__libc_init_array)
 C:/ST/STM32CubeIDE_1.7.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-lock.o)
                               C:/ST/STM32CubeIDE_1.7.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+C:/ST/STM32CubeIDE_1.7.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-memcpy-stub.o)
+                              ./Core/Src/pb_decode.o (memcpy)
 C:/ST/STM32CubeIDE_1.7.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-freer.o)
                               C:/ST/STM32CubeIDE_1.7.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-malloc.o) (_free_r)
 C:/ST/STM32CubeIDE_1.7.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-fflush.o)
@@ -59,6 +61,149 @@ Discarded input sections
  .ARM.exidx     0x00000000       0x10 C:/ST/STM32CubeIDE_1.7.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
  .ARM.attributes
                 0x00000000       0x1b C:/ST/STM32CubeIDE_1.7.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .group         0x00000000        0xc ./Core/Src/Application_Layer.o
+ .text          0x00000000        0x0 ./Core/Src/Application_Layer.o
+ .data          0x00000000        0x0 ./Core/Src/Application_Layer.o
+ .bss           0x00000000        0x0 ./Core/Src/Application_Layer.o
+ .rodata        0x00000000       0xd8 ./Core/Src/Application_Layer.o
+ .text.bkit_send_message
+                0x00000000       0xd4 ./Core/Src/Application_Layer.o
+ .text.bkit_receive_message
+                0x00000000      0x104 ./Core/Src/Application_Layer.o
+ .debug_info    0x00000000      0x7ee ./Core/Src/Application_Layer.o
+ .debug_abbrev  0x00000000      0x1ba ./Core/Src/Application_Layer.o
+ .debug_aranges
+                0x00000000       0x28 ./Core/Src/Application_Layer.o
+ .debug_rnglists
+                0x00000000       0x1b ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000      0x308 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000      0xaa8 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x22 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x8e ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x51 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000      0x103 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x6a ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000      0x1df ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000      0x21b ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x2e ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x22 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x1c ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x22 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0xbd ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000      0xd23 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000     0xe09e ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x6d ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000     0x34a2 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000      0x189 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x5c ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000      0x5bc ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000      0x289 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000      0x1cb ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000      0x114 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000      0x1b2 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x27 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000      0x136 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000      0x1bc ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x34 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x3c ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x57 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x87 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000      0x240 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000      0x287 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000      0x140 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000      0x28e ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x83 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x22 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x10 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x61 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x24 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x43 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x34 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x16 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x43 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x34 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x10 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x58 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x8e ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x1c ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000      0x177 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000      0x369 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x10 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x35 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x20 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x7c ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x17 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000      0x118 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000      0x660 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x22 ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x4c ./Core/Src/Application_Layer.o
+ .debug_macro   0x00000000       0x3a ./Core/Src/Application_Layer.o
+ .debug_line    0x00000000      0xa69 ./Core/Src/Application_Layer.o
+ .debug_str     0x00000000    0x86ce0 ./Core/Src/Application_Layer.o
+ .comment       0x00000000       0x44 ./Core/Src/Application_Layer.o
+ .debug_frame   0x00000000       0x60 ./Core/Src/Application_Layer.o
+ .ARM.attributes
+                0x00000000       0x2d ./Core/Src/Application_Layer.o
  .group         0x00000000        0xc ./Core/Src/KeyPad_4x4.o
  .group         0x00000000        0xc ./Core/Src/KeyPad_4x4.o
  .group         0x00000000        0xc ./Core/Src/KeyPad_4x4.o
@@ -116,8 +261,6 @@ Discarded input sections
  .text.setPass  0x00000000       0x40 ./Core/Src/KeyPad_4x4.o
  .text.checkPass
                 0x00000000       0x44 ./Core/Src/KeyPad_4x4.o
- .text.Keypad_init
-                0x00000000      0x494 ./Core/Src/KeyPad_4x4.o
  .text.Keypad_Init
                 0x00000000      0x498 ./Core/Src/KeyPad_4x4.o
  .text.Pin_Init
@@ -126,12 +269,12 @@ Discarded input sections
                 0x00000000      0x2d8 ./Core/Src/KeyPad_4x4.o
  .text.Keypad_read
                 0x00000000      0x1a0 ./Core/Src/KeyPad_4x4.o
- .debug_info    0x00000000      0xb70 ./Core/Src/KeyPad_4x4.o
- .debug_abbrev  0x00000000      0x2ed ./Core/Src/KeyPad_4x4.o
+ .debug_info    0x00000000      0xa4f ./Core/Src/KeyPad_4x4.o
+ .debug_abbrev  0x00000000      0x2ec ./Core/Src/KeyPad_4x4.o
  .debug_aranges
-                0x00000000       0x58 ./Core/Src/KeyPad_4x4.o
+                0x00000000       0x50 ./Core/Src/KeyPad_4x4.o
  .debug_rnglists
-                0x00000000       0x41 ./Core/Src/KeyPad_4x4.o
+                0x00000000       0x3a ./Core/Src/KeyPad_4x4.o
  .debug_macro   0x00000000      0x1a2 ./Core/Src/KeyPad_4x4.o
  .debug_macro   0x00000000      0xaa8 ./Core/Src/KeyPad_4x4.o
  .debug_macro   0x00000000      0x21b ./Core/Src/KeyPad_4x4.o
@@ -169,10 +312,10 @@ Discarded input sections
  .debug_macro   0x00000000      0x140 ./Core/Src/KeyPad_4x4.o
  .debug_macro   0x00000000      0x28e ./Core/Src/KeyPad_4x4.o
  .debug_macro   0x00000000       0x83 ./Core/Src/KeyPad_4x4.o
- .debug_line    0x00000000      0xf23 ./Core/Src/KeyPad_4x4.o
- .debug_str     0x00000000    0x7e786 ./Core/Src/KeyPad_4x4.o
+ .debug_line    0x00000000      0xcf5 ./Core/Src/KeyPad_4x4.o
+ .debug_str     0x00000000    0x7e76c ./Core/Src/KeyPad_4x4.o
  .comment       0x00000000       0x44 ./Core/Src/KeyPad_4x4.o
- .debug_frame   0x00000000      0x154 ./Core/Src/KeyPad_4x4.o
+ .debug_frame   0x00000000      0x124 ./Core/Src/KeyPad_4x4.o
  .ARM.attributes
                 0x00000000       0x2d ./Core/Src/KeyPad_4x4.o
  .group         0x00000000        0xc ./Core/Src/LCD.o
@@ -284,7 +427,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x83 ./Core/Src/LCD.o
  .debug_macro   0x00000000       0x22 ./Core/Src/LCD.o
  .debug_line    0x00000000      0x863 ./Core/Src/LCD.o
- .debug_str     0x00000000    0x7e794 ./Core/Src/LCD.o
+ .debug_str     0x00000000    0x7e786 ./Core/Src/LCD.o
  .comment       0x00000000       0x44 ./Core/Src/LCD.o
  .debug_frame   0x00000000      0x12c ./Core/Src/LCD.o
  .ARM.attributes
@@ -448,7 +591,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x83 ./Core/Src/MP3_Player.o
  .debug_macro   0x00000000      0x16c ./Core/Src/MP3_Player.o
  .debug_line    0x00000000      0xb42 ./Core/Src/MP3_Player.o
- .debug_str     0x00000000    0x81e06 ./Core/Src/MP3_Player.o
+ .debug_str     0x00000000    0x81df8 ./Core/Src/MP3_Player.o
  .comment       0x00000000       0x44 ./Core/Src/MP3_Player.o
  .debug_frame   0x00000000      0x2ac ./Core/Src/MP3_Player.o
  .ARM.attributes
@@ -596,7 +739,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x29 ./Core/Src/OLED.o
  .debug_macro   0x00000000       0x28 ./Core/Src/OLED.o
  .debug_line    0x00000000      0xae4 ./Core/Src/OLED.o
- .debug_str     0x00000000    0x81a21 ./Core/Src/OLED.o
+ .debug_str     0x00000000    0x81a13 ./Core/Src/OLED.o
  .comment       0x00000000       0x44 ./Core/Src/OLED.o
  .debug_frame   0x00000000      0x140 ./Core/Src/OLED.o
  .ARM.attributes
@@ -676,6 +819,395 @@ Discarded input sections
  .debug_macro   0x00000000      0x140 ./Core/Src/main.o
  .debug_macro   0x00000000      0x28e ./Core/Src/main.o
  .debug_macro   0x00000000       0x83 ./Core/Src/main.o
+ .group         0x00000000        0xc ./Core/Src/pb_common.o
+ .group         0x00000000        0xc ./Core/Src/pb_common.o
+ .group         0x00000000        0xc ./Core/Src/pb_common.o
+ .group         0x00000000        0xc ./Core/Src/pb_common.o
+ .group         0x00000000        0xc ./Core/Src/pb_common.o
+ .group         0x00000000        0xc ./Core/Src/pb_common.o
+ .group         0x00000000        0xc ./Core/Src/pb_common.o
+ .group         0x00000000        0xc ./Core/Src/pb_common.o
+ .group         0x00000000        0xc ./Core/Src/pb_common.o
+ .group         0x00000000        0xc ./Core/Src/pb_common.o
+ .group         0x00000000        0xc ./Core/Src/pb_common.o
+ .group         0x00000000        0xc ./Core/Src/pb_common.o
+ .group         0x00000000        0xc ./Core/Src/pb_common.o
+ .group         0x00000000        0xc ./Core/Src/pb_common.o
+ .group         0x00000000        0xc ./Core/Src/pb_common.o
+ .group         0x00000000        0xc ./Core/Src/pb_common.o
+ .group         0x00000000        0xc ./Core/Src/pb_common.o
+ .group         0x00000000        0xc ./Core/Src/pb_common.o
+ .group         0x00000000        0xc ./Core/Src/pb_common.o
+ .group         0x00000000        0xc ./Core/Src/pb_common.o
+ .group         0x00000000        0xc ./Core/Src/pb_common.o
+ .group         0x00000000        0xc ./Core/Src/pb_common.o
+ .group         0x00000000        0xc ./Core/Src/pb_common.o
+ .group         0x00000000        0xc ./Core/Src/pb_common.o
+ .group         0x00000000        0xc ./Core/Src/pb_common.o
+ .group         0x00000000        0xc ./Core/Src/pb_common.o
+ .group         0x00000000        0xc ./Core/Src/pb_common.o
+ .group         0x00000000        0xc ./Core/Src/pb_common.o
+ .group         0x00000000        0xc ./Core/Src/pb_common.o
+ .group         0x00000000        0xc ./Core/Src/pb_common.o
+ .text          0x00000000        0x0 ./Core/Src/pb_common.o
+ .data          0x00000000        0x0 ./Core/Src/pb_common.o
+ .bss           0x00000000        0x0 ./Core/Src/pb_common.o
+ .text.load_descriptor_values
+                0x00000000      0x2d2 ./Core/Src/pb_common.o
+ .text.advance_iterator
+                0x00000000       0xbe ./Core/Src/pb_common.o
+ .text.pb_field_iter_begin
+                0x00000000       0x32 ./Core/Src/pb_common.o
+ .text.pb_field_iter_begin_extension
+                0x00000000       0x60 ./Core/Src/pb_common.o
+ .text.pb_field_iter_next
+                0x00000000       0x2a ./Core/Src/pb_common.o
+ .text.pb_field_iter_find
+                0x00000000       0xac ./Core/Src/pb_common.o
+ .text.pb_field_iter_find_extension
+                0x00000000       0x66 ./Core/Src/pb_common.o
+ .text.pb_const_cast
+                0x00000000       0x18 ./Core/Src/pb_common.o
+ .text.pb_field_iter_begin_const
+                0x00000000       0x28 ./Core/Src/pb_common.o
+ .text.pb_field_iter_begin_extension_const
+                0x00000000       0x24 ./Core/Src/pb_common.o
+ .text.pb_default_field_callback
+                0x00000000       0x6a ./Core/Src/pb_common.o
+ .debug_info    0x00000000      0x8be ./Core/Src/pb_common.o
+ .debug_abbrev  0x00000000      0x249 ./Core/Src/pb_common.o
+ .debug_aranges
+                0x00000000       0x70 ./Core/Src/pb_common.o
+ .debug_rnglists
+                0x00000000       0x52 ./Core/Src/pb_common.o
+ .debug_macro   0x00000000      0x197 ./Core/Src/pb_common.o
+ .debug_macro   0x00000000      0xaa8 ./Core/Src/pb_common.o
+ .debug_macro   0x00000000       0x10 ./Core/Src/pb_common.o
+ .debug_macro   0x00000000       0x22 ./Core/Src/pb_common.o
+ .debug_macro   0x00000000       0x8e ./Core/Src/pb_common.o
+ .debug_macro   0x00000000       0x51 ./Core/Src/pb_common.o
+ .debug_macro   0x00000000      0x103 ./Core/Src/pb_common.o
+ .debug_macro   0x00000000       0x6a ./Core/Src/pb_common.o
+ .debug_macro   0x00000000      0x1df ./Core/Src/pb_common.o
+ .debug_macro   0x00000000      0x189 ./Core/Src/pb_common.o
+ .debug_macro   0x00000000       0x22 ./Core/Src/pb_common.o
+ .debug_macro   0x00000000       0x61 ./Core/Src/pb_common.o
+ .debug_macro   0x00000000       0x24 ./Core/Src/pb_common.o
+ .debug_macro   0x00000000       0x43 ./Core/Src/pb_common.o
+ .debug_macro   0x00000000       0x34 ./Core/Src/pb_common.o
+ .debug_macro   0x00000000       0x16 ./Core/Src/pb_common.o
+ .debug_macro   0x00000000       0x43 ./Core/Src/pb_common.o
+ .debug_macro   0x00000000       0x34 ./Core/Src/pb_common.o
+ .debug_macro   0x00000000       0x10 ./Core/Src/pb_common.o
+ .debug_macro   0x00000000       0x58 ./Core/Src/pb_common.o
+ .debug_macro   0x00000000       0x8e ./Core/Src/pb_common.o
+ .debug_macro   0x00000000       0x1c ./Core/Src/pb_common.o
+ .debug_macro   0x00000000      0x177 ./Core/Src/pb_common.o
+ .debug_macro   0x00000000      0x369 ./Core/Src/pb_common.o
+ .debug_macro   0x00000000       0x10 ./Core/Src/pb_common.o
+ .debug_macro   0x00000000       0x35 ./Core/Src/pb_common.o
+ .debug_macro   0x00000000       0x20 ./Core/Src/pb_common.o
+ .debug_macro   0x00000000       0x7c ./Core/Src/pb_common.o
+ .debug_macro   0x00000000       0x17 ./Core/Src/pb_common.o
+ .debug_macro   0x00000000      0x118 ./Core/Src/pb_common.o
+ .debug_macro   0x00000000      0x660 ./Core/Src/pb_common.o
+ .debug_line    0x00000000      0xa72 ./Core/Src/pb_common.o
+ .debug_str     0x00000000     0xc6d0 ./Core/Src/pb_common.o
+ .comment       0x00000000       0x44 ./Core/Src/pb_common.o
+ .debug_frame   0x00000000      0x1a8 ./Core/Src/pb_common.o
+ .ARM.attributes
+                0x00000000       0x2d ./Core/Src/pb_common.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_decode.o
+ .text          0x00000000        0x0 ./Core/Src/pb_decode.o
+ .data          0x00000000        0x0 ./Core/Src/pb_decode.o
+ .bss           0x00000000        0x0 ./Core/Src/pb_decode.o
+ .text.buf_read
+                0x00000000       0x38 ./Core/Src/pb_decode.o
+ .rodata        0x00000000      0x1ba ./Core/Src/pb_decode.o
+ .text.pb_read  0x00000000       0xec ./Core/Src/pb_decode.o
+ .text.pb_readbyte
+                0x00000000       0x78 ./Core/Src/pb_decode.o
+ .text.pb_istream_from_buffer
+                0x00000000       0x3c ./Core/Src/pb_decode.o
+ .text.pb_decode_varint32_eof
+                0x00000000      0x154 ./Core/Src/pb_decode.o
+ .text.pb_decode_varint32
+                0x00000000       0x1e ./Core/Src/pb_decode.o
+ .text.pb_decode_varint
+                0x00000000       0xcc ./Core/Src/pb_decode.o
+ .text.pb_skip_varint
+                0x00000000       0x38 ./Core/Src/pb_decode.o
+ .text.pb_skip_string
+                0x00000000       0x3a ./Core/Src/pb_decode.o
+ .text.pb_decode_tag
+                0x00000000       0x5e ./Core/Src/pb_decode.o
+ .text.pb_skip_field
+                0x00000000       0x84 ./Core/Src/pb_decode.o
+ .text.read_raw_value
+                0x00000000       0xd8 ./Core/Src/pb_decode.o
+ .text.pb_make_string_substream
+                0x00000000       0x74 ./Core/Src/pb_decode.o
+ .text.pb_close_string_substream
+                0x00000000       0x4a ./Core/Src/pb_decode.o
+ .text.decode_basic_field
+                0x00000000      0x1ec ./Core/Src/pb_decode.o
+ .text.decode_static_field
+                0x00000000      0x280 ./Core/Src/pb_decode.o
+ .text.decode_pointer_field
+                0x00000000       0x34 ./Core/Src/pb_decode.o
+ .text.decode_callback_field
+                0x00000000      0x114 ./Core/Src/pb_decode.o
+ .text.decode_field
+                0x00000000       0x7c ./Core/Src/pb_decode.o
+ .text.default_extension_decoder
+                0x00000000       0x74 ./Core/Src/pb_decode.o
+ .text.decode_extension
+                0x00000000       0x78 ./Core/Src/pb_decode.o
+ .text.pb_field_set_to_default
+                0x00000000      0x182 ./Core/Src/pb_decode.o
+ .text.pb_message_set_to_defaults
+                0x00000000       0xfa ./Core/Src/pb_decode.o
+ .text.pb_decode_inner
+                0x00000000      0x374 ./Core/Src/pb_decode.o
+ .text.pb_decode_ex
+                0x00000000       0x86 ./Core/Src/pb_decode.o
+ .text.pb_decode
+                0x00000000       0x26 ./Core/Src/pb_decode.o
+ .text.pb_release
+                0x00000000       0x14 ./Core/Src/pb_decode.o
+ .text.pb_decode_bool
+                0x00000000       0x40 ./Core/Src/pb_decode.o
+ .text.pb_decode_svarint
+                0x00000000       0x86 ./Core/Src/pb_decode.o
+ .text.pb_decode_fixed32
+                0x00000000       0x38 ./Core/Src/pb_decode.o
+ .text.pb_decode_fixed64
+                0x00000000       0x3c ./Core/Src/pb_decode.o
+ .text.pb_dec_bool
+                0x00000000       0x20 ./Core/Src/pb_decode.o
+ .text.pb_dec_varint
+                0x00000000      0x258 ./Core/Src/pb_decode.o
+ .text.pb_dec_bytes
+                0x00000000       0xe8 ./Core/Src/pb_decode.o
+ .text.pb_dec_string
+                0x00000000       0xf8 ./Core/Src/pb_decode.o
+ .text.pb_dec_submessage
+                0x00000000      0x114 ./Core/Src/pb_decode.o
+ .text.pb_dec_fixed_length_bytes
+                0x00000000       0xa8 ./Core/Src/pb_decode.o
+ .debug_info    0x00000000     0x165d ./Core/Src/pb_decode.o
+ .debug_abbrev  0x00000000      0x302 ./Core/Src/pb_decode.o
+ .debug_aranges
+                0x00000000      0x140 ./Core/Src/pb_decode.o
+ .debug_rnglists
+                0x00000000      0x129 ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000      0x1bc ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000      0xaa8 ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000       0x10 ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000       0x22 ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000       0x8e ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000       0x51 ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000      0x103 ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000       0x6a ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000      0x1df ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000      0x189 ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000       0x22 ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000       0x61 ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000       0x24 ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000       0x43 ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000       0x34 ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000       0x16 ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000       0x43 ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000       0x34 ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000       0x10 ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000       0x58 ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000       0x8e ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000       0x1c ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000      0x177 ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000      0x369 ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000       0x10 ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000       0x35 ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000       0x20 ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000       0x7c ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000       0x17 ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000      0x118 ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000      0x660 ./Core/Src/pb_decode.o
+ .debug_macro   0x00000000       0x34 ./Core/Src/pb_decode.o
+ .debug_line    0x00000000     0x1870 ./Core/Src/pb_decode.o
+ .debug_str     0x00000000     0xccc1 ./Core/Src/pb_decode.o
+ .comment       0x00000000       0x44 ./Core/Src/pb_decode.o
+ .debug_frame   0x00000000      0x58c ./Core/Src/pb_decode.o
+ .ARM.attributes
+                0x00000000       0x2d ./Core/Src/pb_decode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .group         0x00000000        0xc ./Core/Src/pb_encode.o
+ .text          0x00000000        0x0 ./Core/Src/pb_encode.o
+ .data          0x00000000        0x0 ./Core/Src/pb_encode.o
+ .bss           0x00000000        0x0 ./Core/Src/pb_encode.o
+ .text.buf_write
+                0x00000000       0x30 ./Core/Src/pb_encode.o
+ .text.pb_ostream_from_buffer
+                0x00000000       0x40 ./Core/Src/pb_encode.o
+ .rodata        0x00000000      0x105 ./Core/Src/pb_encode.o
+ .text.pb_write
+                0x00000000       0xa0 ./Core/Src/pb_encode.o
+ .text.safe_read_bool
+                0x00000000       0x3a ./Core/Src/pb_encode.o
+ .text.encode_array
+                0x00000000      0x2a8 ./Core/Src/pb_encode.o
+ .text.pb_check_proto3_default_value
+                0x00000000      0x23c ./Core/Src/pb_encode.o
+ .text.encode_basic_field
+                0x00000000       0xe8 ./Core/Src/pb_encode.o
+ .text.encode_callback_field
+                0x00000000       0x54 ./Core/Src/pb_encode.o
+ .text.encode_field
+                0x00000000       0xe8 ./Core/Src/pb_encode.o
+ .text.default_extension_encoder
+                0x00000000       0x54 ./Core/Src/pb_encode.o
+ .text.encode_extension_field
+                0x00000000       0x62 ./Core/Src/pb_encode.o
+ .text.pb_encode
+                0x00000000       0x88 ./Core/Src/pb_encode.o
+ .text.pb_encode_ex
+                0x00000000       0x74 ./Core/Src/pb_encode.o
+ .text.pb_get_encoded_size
+                0x00000000       0x4a ./Core/Src/pb_encode.o
+ .text.pb_encode_varint_32
+                0x00000000       0xd4 ./Core/Src/pb_encode.o
+ .text.pb_encode_varint
+                0x00000000       0x56 ./Core/Src/pb_encode.o
+ .text.pb_encode_svarint
+                0x00000000       0x74 ./Core/Src/pb_encode.o
+ .text.pb_encode_fixed32
+                0x00000000       0x1e ./Core/Src/pb_encode.o
+ .text.pb_encode_fixed64
+                0x00000000       0x1e ./Core/Src/pb_encode.o
+ .text.pb_encode_tag
+                0x00000000       0x52 ./Core/Src/pb_encode.o
+ .text.pb_encode_tag_for_field
+                0x00000000       0x9c ./Core/Src/pb_encode.o
+ .text.pb_encode_string
+                0x00000000       0x42 ./Core/Src/pb_encode.o
+ .text.pb_encode_submessage
+                0x00000000      0x11c ./Core/Src/pb_encode.o
+ .text.pb_enc_bool
+                0x00000000       0x34 ./Core/Src/pb_encode.o
+ .text.pb_enc_varint
+                0x00000000      0x184 ./Core/Src/pb_encode.o
+ .text.pb_enc_fixed
+                0x00000000       0x5c ./Core/Src/pb_encode.o
+ .text.pb_enc_bytes
+                0x00000000       0x7c ./Core/Src/pb_encode.o
+ .text.pb_enc_string
+                0x00000000       0xbc ./Core/Src/pb_encode.o
+ .text.pb_enc_submessage
+                0x00000000       0x8c ./Core/Src/pb_encode.o
+ .text.pb_enc_fixed_length_bytes
+                0x00000000       0x24 ./Core/Src/pb_encode.o
+ .debug_info    0x00000000     0x10dc ./Core/Src/pb_encode.o
+ .debug_abbrev  0x00000000      0x2c2 ./Core/Src/pb_encode.o
+ .debug_aranges
+                0x00000000      0x108 ./Core/Src/pb_encode.o
+ .debug_rnglists
+                0x00000000       0xcd ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000      0x1bc ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000      0xaa8 ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000       0x10 ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000       0x22 ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000       0x8e ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000       0x51 ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000      0x103 ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000       0x6a ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000      0x1df ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000      0x189 ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000       0x22 ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000       0x61 ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000       0x24 ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000       0x43 ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000       0x34 ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000       0x16 ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000       0x43 ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000       0x34 ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000       0x10 ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000       0x58 ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000       0x8e ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000       0x1c ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000      0x177 ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000      0x369 ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000       0x10 ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000       0x35 ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000       0x20 ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000       0x7c ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000       0x17 ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000      0x118 ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000      0x660 ./Core/Src/pb_encode.o
+ .debug_macro   0x00000000       0x22 ./Core/Src/pb_encode.o
+ .debug_line    0x00000000     0x11f8 ./Core/Src/pb_encode.o
+ .debug_str     0x00000000     0xca86 ./Core/Src/pb_encode.o
+ .comment       0x00000000       0x44 ./Core/Src/pb_encode.o
+ .debug_frame   0x00000000      0x494 ./Core/Src/pb_encode.o
+ .ARM.attributes
+                0x00000000       0x2d ./Core/Src/pb_encode.o
  .group         0x00000000        0xc ./Core/Src/stm32f1xx_hal_msp.o
  .group         0x00000000        0xc ./Core/Src/stm32f1xx_hal_msp.o
  .group         0x00000000        0xc ./Core/Src/stm32f1xx_hal_msp.o
@@ -960,7 +1492,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x16 ./Core/Src/syscalls.o
  .debug_macro   0x00000000       0xce ./Core/Src/syscalls.o
  .debug_line    0x00000000      0x8a3 ./Core/Src/syscalls.o
- .debug_str     0x00000000     0x985d ./Core/Src/syscalls.o
+ .debug_str     0x00000000     0x984f ./Core/Src/syscalls.o
  .comment       0x00000000       0x44 ./Core/Src/syscalls.o
  .debug_frame   0x00000000      0x2ac ./Core/Src/syscalls.o
  .ARM.attributes
@@ -1023,7 +1555,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x6a ./Core/Src/sysmem.o
  .debug_macro   0x00000000      0x1df ./Core/Src/sysmem.o
  .debug_line    0x00000000      0x574 ./Core/Src/sysmem.o
- .debug_str     0x00000000     0x6075 ./Core/Src/sysmem.o
+ .debug_str     0x00000000     0x6067 ./Core/Src/sysmem.o
  .comment       0x00000000       0x44 ./Core/Src/sysmem.o
  .debug_frame   0x00000000       0x34 ./Core/Src/sysmem.o
  .ARM.attributes
@@ -1105,6 +1637,87 @@ Discarded input sections
  .debug_macro   0x00000000      0x140 ./Core/Src/system_stm32f1xx.o
  .debug_macro   0x00000000      0x28e ./Core/Src/system_stm32f1xx.o
  .debug_macro   0x00000000       0x83 ./Core/Src/system_stm32f1xx.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .group         0x00000000        0xc ./Core/Src/test.pb.o
+ .text          0x00000000        0x0 ./Core/Src/test.pb.o
+ .data          0x00000000        0x0 ./Core/Src/test.pb.o
+ .bss           0x00000000        0x0 ./Core/Src/test.pb.o
+ .rodata.TestMessage_field_info
+                0x00000000       0x14 ./Core/Src/test.pb.o
+ .rodata.TestMessage_submsg_info
+                0x00000000        0x4 ./Core/Src/test.pb.o
+ .rodata.TestMessage_msg
+                0x00000000       0x18 ./Core/Src/test.pb.o
+ .debug_info    0x00000000      0x38f ./Core/Src/test.pb.o
+ .debug_abbrev  0x00000000      0x12e ./Core/Src/test.pb.o
+ .debug_aranges
+                0x00000000       0x18 ./Core/Src/test.pb.o
+ .debug_macro   0x00000000      0x19c ./Core/Src/test.pb.o
+ .debug_macro   0x00000000      0xaa8 ./Core/Src/test.pb.o
+ .debug_macro   0x00000000       0x10 ./Core/Src/test.pb.o
+ .debug_macro   0x00000000       0x22 ./Core/Src/test.pb.o
+ .debug_macro   0x00000000       0x8e ./Core/Src/test.pb.o
+ .debug_macro   0x00000000       0x51 ./Core/Src/test.pb.o
+ .debug_macro   0x00000000      0x103 ./Core/Src/test.pb.o
+ .debug_macro   0x00000000       0x6a ./Core/Src/test.pb.o
+ .debug_macro   0x00000000      0x1df ./Core/Src/test.pb.o
+ .debug_macro   0x00000000      0x189 ./Core/Src/test.pb.o
+ .debug_macro   0x00000000       0x22 ./Core/Src/test.pb.o
+ .debug_macro   0x00000000       0x61 ./Core/Src/test.pb.o
+ .debug_macro   0x00000000       0x24 ./Core/Src/test.pb.o
+ .debug_macro   0x00000000       0x43 ./Core/Src/test.pb.o
+ .debug_macro   0x00000000       0x34 ./Core/Src/test.pb.o
+ .debug_macro   0x00000000       0x16 ./Core/Src/test.pb.o
+ .debug_macro   0x00000000       0x43 ./Core/Src/test.pb.o
+ .debug_macro   0x00000000       0x34 ./Core/Src/test.pb.o
+ .debug_macro   0x00000000       0x10 ./Core/Src/test.pb.o
+ .debug_macro   0x00000000       0x58 ./Core/Src/test.pb.o
+ .debug_macro   0x00000000       0x8e ./Core/Src/test.pb.o
+ .debug_macro   0x00000000       0x1c ./Core/Src/test.pb.o
+ .debug_macro   0x00000000      0x177 ./Core/Src/test.pb.o
+ .debug_macro   0x00000000      0x369 ./Core/Src/test.pb.o
+ .debug_macro   0x00000000       0x10 ./Core/Src/test.pb.o
+ .debug_macro   0x00000000       0x35 ./Core/Src/test.pb.o
+ .debug_macro   0x00000000       0x20 ./Core/Src/test.pb.o
+ .debug_macro   0x00000000       0x7c ./Core/Src/test.pb.o
+ .debug_macro   0x00000000       0x17 ./Core/Src/test.pb.o
+ .debug_macro   0x00000000      0x118 ./Core/Src/test.pb.o
+ .debug_macro   0x00000000      0x660 ./Core/Src/test.pb.o
+ .debug_macro   0x00000000       0x4c ./Core/Src/test.pb.o
+ .debug_line    0x00000000      0x685 ./Core/Src/test.pb.o
+ .debug_str     0x00000000     0xc6d9 ./Core/Src/test.pb.o
+ .comment       0x00000000       0x44 ./Core/Src/test.pb.o
+ .ARM.attributes
+                0x00000000       0x2d ./Core/Src/test.pb.o
  .text          0x00000000       0x14 ./Core/Startup/startup_stm32f103c8tx.o
  .data          0x00000000        0x0 ./Core/Startup/startup_stm32f103c8tx.o
  .bss           0x00000000        0x0 ./Core/Startup/startup_stm32f103c8tx.o
@@ -2838,6 +3451,13 @@ Discarded input sections
  .debug_frame   0x00000000       0xb0 C:/ST/STM32CubeIDE_1.7.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-lock.o)
  .ARM.attributes
                 0x00000000       0x2d C:/ST/STM32CubeIDE_1.7.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-lock.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeIDE_1.7.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-memcpy-stub.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeIDE_1.7.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeIDE_1.7.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-memcpy-stub.o)
+ .text.memcpy   0x00000000       0x1c C:/ST/STM32CubeIDE_1.7.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-memcpy-stub.o)
+ .debug_frame   0x00000000       0x28 C:/ST/STM32CubeIDE_1.7.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000000       0x2d C:/ST/STM32CubeIDE_1.7.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-memcpy-stub.o)
  .text          0x00000000        0x0 C:/ST/STM32CubeIDE_1.7.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-freer.o)
  .data          0x00000000        0x0 C:/ST/STM32CubeIDE_1.7.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-freer.o)
  .bss           0x00000000        0x0 C:/ST/STM32CubeIDE_1.7.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(libc_a-freer.o)
@@ -2879,16 +3499,21 @@ Linker script and memory map
 LOAD C:/ST/STM32CubeIDE_1.7.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crti.o
 LOAD C:/ST/STM32CubeIDE_1.7.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp/crtbegin.o
 LOAD C:/ST/STM32CubeIDE_1.7.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.win32_1.1.0.202410251130/tools/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+LOAD ./Core/Src/Application_Layer.o
 LOAD ./Core/Src/KeyPad_4x4.o
 LOAD ./Core/Src/LCD.o
 LOAD ./Core/Src/MP3_Player.o
 LOAD ./Core/Src/OLED.o
 LOAD ./Core/Src/main.o
+LOAD ./Core/Src/pb_common.o
+LOAD ./Core/Src/pb_decode.o
+LOAD ./Core/Src/pb_encode.o
 LOAD ./Core/Src/stm32f1xx_hal_msp.o
 LOAD ./Core/Src/stm32f1xx_it.o
 LOAD ./Core/Src/syscalls.o
 LOAD ./Core/Src/sysmem.o
 LOAD ./Core/Src/system_stm32f1xx.o
+LOAD ./Core/Src/test.pb.o
 LOAD ./Core/Startup/startup_stm32f103c8tx.o
 LOAD ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
 LOAD ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
@@ -3528,30 +4153,29 @@ LOAD C:/ST/STM32CubeIDE_1.7.0/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.exte
  .debug_line    0x00008844      0xd93 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
  .debug_line    0x000095d7     0x2869 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.o
 
-.debug_str      0x00000000    0x80b8c
- .debug_str     0x00000000    0x7e6e1 ./Core/Src/main.o
-                              0x7eab4 (size before relaxing)
- .debug_str     0x0007e6e1      0x3b0 ./Core/Src/stm32f1xx_hal_msp.o
-                              0x7ecc7 (size before relaxing)
- .debug_str     0x0007ea91      0x141 ./Core/Src/stm32f1xx_it.o
-                              0x7e9a8 (size before relaxing)
- .debug_str     0x0007ebd2       0x7e ./Core/Src/system_stm32f1xx.o
-                              0x7e2ba (size before relaxing)
- .debug_str     0x0007ec50       0x44 ./Core/Startup/startup_stm32f103c8tx.o
-                                 0x80 (size before relaxing)
- .debug_str     0x0007ec94      0x38e ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+.debug_str      0x00000000    0x80bba
+ .debug_str     0x00000000    0x7e6d3 ./Core/Src/main.o
+                              0x7eaa6 (size before relaxing)
+ .debug_str     0x0007e6d3      0x3b0 ./Core/Src/stm32f1xx_hal_msp.o
+                              0x7ecb9 (size before relaxing)
+ .debug_str     0x0007ea83      0x141 ./Core/Src/stm32f1xx_it.o
+                              0x7e99a (size before relaxing)
+ .debug_str     0x0007ebc4       0x7e ./Core/Src/system_stm32f1xx.o
+                              0x7e2ac (size before relaxing)
+ .debug_str     0x0007ec42       0x80 ./Core/Startup/startup_stm32f103c8tx.o
+ .debug_str     0x0007ecc2      0x38e ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
                               0x7e9ed (size before relaxing)
- .debug_str     0x0007f022      0x294 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .debug_str     0x0007f050      0x294 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
                               0x7e939 (size before relaxing)
- .debug_str     0x0007f2b6      0x23a ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.o
+ .debug_str     0x0007f2e4      0x23a ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.o
                               0x7e663 (size before relaxing)
- .debug_str     0x0007f4f0      0x31d ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .debug_str     0x0007f51e      0x31d ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
                               0x7e640 (size before relaxing)
- .debug_str     0x0007f80d      0xb7c ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.o
+ .debug_str     0x0007f83b      0xb7c ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.o
                               0x7f381 (size before relaxing)
- .debug_str     0x00080389      0x209 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .debug_str     0x000803b7      0x209 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
                               0x7e6e9 (size before relaxing)
- .debug_str     0x00080592      0x5fa ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.o
+ .debug_str     0x000805c0      0x5fa ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.o
                               0x7ed5a (size before relaxing)
 
 .comment        0x00000000       0x43
