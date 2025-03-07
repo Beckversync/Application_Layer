@@ -1,6 +1,4 @@
-Here’s a detailed and polished description for this project:  
 
----
 
 # 🛠️ Embedded System Project with STM32F1  
 
