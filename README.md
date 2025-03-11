@@ -3,7 +3,7 @@
 # 🛠️ Embedded System Project with STM32F1  
 
 ## 📝 Overview  
-This project is a **comprehensive embedded system** built on the **STM32F103RB microcontroller**, integrating multiple hardware components and software layers for **efficient control and communication**. It includes **peripheral management**, **display control**, **media playback**, and **protocol encoding/decoding**, making it a **feature-rich and modular system**.  
+A **comprehensive embedded system** is developed using the **STM32F103RB microcontroller**, combining multiple hardware components and software layers to ensure **efficient control and communication**. This system encompasses **peripheral management**, **display control**, **media playback**, and **protocol encoding/decoding**, resulting in a **feature-rich and modular design**.
 
 ## 🧱 Project Structure  
 - **Application Layer**: High-level control and system logic.  
