@@ -1,11 +1,11 @@
 
 
-# 🛠️ Embedded System Project with STM32F1  
+#  Embedded System Project with STM32F1  
 
-## 📝 Overview  
+##  Overview  
 A **comprehensive embedded system** is developed using the **STM32F103RB microcontroller**, combining multiple hardware components and software layers to ensure **efficient control and communication**. This system encompasses **peripheral management**, **display control**, **media playback**, and **protocol encoding/decoding**, resulting in a **feature-rich and modular design**.
 
-## 🧱 Project Structure  
+##  Project Structure  
 - **Application Layer**: High-level control and system logic.  
 - **Keypad 4x4**: Interface for **user input** through a 4x4 matrix keypad.  
 - **LCD & OLED Display Control**: Functions to manage **LCD** and **OLED screens**, providing **real-time information display**.  
@@ -18,7 +18,7 @@ A **comprehensive embedded system** is developed using the **STM32F103RB microco
   - `syscalls.c`, `sysmem.c`, `system_stm32f1xx.c`: **System-level functions** and memory management.  
 - **Main Application**: `main.c` – **Central control logic**, initialization, and task management.  
 
-## 🌟 Features  
+##  Features  
 - **Real-time Display**: LCD and OLED integration for **visual feedback**.  
 - **Media Playback**: MP3 player module for **audio output**.  
 - **User Interaction**: **4x4 Keypad** for manual input.  
