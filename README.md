@@ -25,7 +25,7 @@ A **comprehensive embedded system** is developed using the **STM32F103RB microco
 - **Protocol Buffers**: **Efficient data serialization** and parsing.  
 - **Robust System Management**: **Interrupt handling**, **memory management**, and **system-level configuration**.  
 
-## 🔧 Tools & Technologies  
+## Tools & Technologies  
 - **STM32CubeIDE** / **Keil** for development.  
 - **C Language** for firmware.  
 - **HAL Libraries** for STM32 peripheral control.  
